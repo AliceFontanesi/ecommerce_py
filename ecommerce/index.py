@@ -1,0 +1,1 @@
+connection = connection("localhost", "root", "")
